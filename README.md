@@ -17,7 +17,7 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 # Schweiz
 Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
-[Status](https://status.im) | fully | ? | IT blockchain | ? | [Jobs](https://status.im/contribute/open_positions.html)
+[Status](https://status.im) | fully | ? | IT blockchain | > 60 | [Jobs](https://status.im/contribute/open_positions.html)
 
 
 # Other helpful international sources
