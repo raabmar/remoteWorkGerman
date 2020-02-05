@@ -12,6 +12,8 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
 [LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | < 10 | -
+[storyblok](https://www.storyblok.com/) | partly | ? | CMS | > 10 | https://www.storyblok.com/jobs
+
 
 
 ## Schweiz (CH)
