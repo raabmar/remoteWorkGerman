@@ -6,6 +6,8 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
 [Eyeo](https://eyeo.com) | partly | ? | IT software | ? | [Jobs](https://eyeo.com/jobs/#!/available_positions)
 [Filestage](https://filestage.io) | fully | ? | IT software | ? | [Jobs](https://help.filestage.io/en/articles/1459635-open-positions)
+[Inpsyde](https://inpsyde.com/) | fully | ? | IT software (WordPress) | ? | [Jobs](https://inpsyde.com/remote-jobs/)
+[Komoor](https://www.komoot.de) | fully | ? | IT software (App) | ? | [Jobs](https://www.komoot.de/jobs)
 
 
 ## Österreich (A)
