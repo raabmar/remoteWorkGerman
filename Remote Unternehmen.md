@@ -6,8 +6,15 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
 [Eyeo](https://eyeo.com) | partly | ? | IT software | ? | [Jobs](https://eyeo.com/jobs/#!/available_positions)
 [Filestage](https://filestage.io) | fully | ? | IT software | ? | [Jobs](https://help.filestage.io/en/articles/1459635-open-positions)
-[Inpsyde](https://inpsyde.com/) | fully | ? | IT software (WordPress) | ? | [Jobs](https://inpsyde.com/remote-jobs/)
+[Inpsyde](https://inpsyde.com) | fully | ? | IT software (WordPress) | ? | [Jobs](https://inpsyde.com/remote-jobs/)
 [Komoot](https://www.komoot.de) | fully | ? | IT software (App) | ? | [Jobs](https://www.komoot.de/jobs)
+[1xInternet](https://www.1xinternet.de/de) | partly | Frankfurt, Berlin, Conil partly on-site | Digital Agency | ? | [Jobs](https://www.1xinternet.de/de/node/123)
+[wow family](https://www.wowfamily.de) | fully | ? | IT software / hair dresser community | ? | [Jobs](https://www.wowfamily.de/career)
+[OpenProject](https://www.openproject.org) | fully | ? | IT software / project management | ? | [Jobs](https://www.openproject.org/career)
+[Tourlane](https://www.tourlane.com) | partly | ? | Personal Travel Expert | ? | [Jobs](https://careers.tourlane.com)
+[Wildling Shoes](https://www.wildling.shoes/) | partly | meet every 8 weeks in Oberbergischen or Cologne | Custom Shoe Brand Shop | ? | [Jobs](https://www.wildling.shoes/pages/jobs)
+
+
 
 
 ## Österreich (A)
@@ -22,6 +29,7 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
 [Status](https://status.im) | fully | ? | IT blockchain | > 60 | [Jobs](https://status.im/contribute/open_positions.html)
+[Beekeeper](https://www.beekeeper.io/de) | partly | German, Poland, Switzerland, US| IT software | ? | [Jobs](https://www.beekeeper.io/en/company/jobs)
 
 
 ## Other helpful international sources
