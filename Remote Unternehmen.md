@@ -20,8 +20,9 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 ## Österreich (A)
 Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
-[LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | < 10 | -
-[storyblok](https://www.storyblok.com/) | partly | ? | CMS | > 10 | https://www.storyblok.com/jobs
+[LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | < 10 | [Jobs]
+[storyblok](https://www.storyblok.com) | partly | ? | CMS | > 10 | [Jobs](https://www.storyblok.com/jobs)
+[CodeShip](https://codeship.com) | full | Boston, Vienna | Software Deployment | > 30 | [Jobs](https://codeship.com/jobs)
 
 
 
