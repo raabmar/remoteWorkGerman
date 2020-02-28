@@ -13,6 +13,7 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 [OpenProject](https://www.openproject.org) | fully | ? | IT software / project management | ? | [Jobs](https://www.openproject.org/career)
 [Tourlane](https://www.tourlane.com) | partly | ? | Personal Travel Expert | ? | [Jobs](https://careers.tourlane.com)
 [Wildling Shoes](https://www.wildling.shoes/) | partly | meet every 8 weeks in Oberbergischen or Cologne | Custom Shoe Brand Shop | ? | [Jobs](https://www.wildling.shoes/pages/jobs)
+[kinder-privat-versichern.de](https://www.kinder-privat-versichern.de) | fully | weekly team meetings 11 am GMT+2 | Insurance | ? | [Jobs](https://www.kinder-privat-versichern.de/jobs/)
 
 
 
@@ -20,7 +21,7 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 ## Österreich (A)
 Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 --- | ---| --- | --- | --- | ---
-[LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | < 10 | [Jobs]
+[LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | < 10 | [Jobs](#)
 [storyblok](https://www.storyblok.com) | partly | ? | CMS | > 10 | [Jobs](https://www.storyblok.com/jobs)
 [CodeShip](https://codeship.com) | full | Boston, Vienna | Software Deployment | > 30 | [Jobs](https://codeship.com/jobs)
 
