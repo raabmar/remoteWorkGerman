@@ -25,6 +25,8 @@ Unternehmen | Remote | Time Zone | Branch | Size | Job Page
 [storyblok](https://www.storyblok.com) | partly | ? | CMS | > 10 | [Jobs](https://www.storyblok.com/jobs)
 [CodeShip](https://codeship.com) | fully | Boston, Vienna | Software Deployment | > 30 | [Jobs](https://codeship.com/jobs)
 [PSPDFKit](https://pspdfkit.com) | fully | | IT software | > 40 | [Jobs](https://pspdfkit.com/careers/)
+[Fretello](https://fretello.com/) | partly | Linz & world | IT app | ? | [Jobs](https://news.fretello.com/career/)
+
 
 
 
