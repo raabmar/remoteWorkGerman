@@ -22,7 +22,7 @@ Company | Remote | Time Zone | Branch | Tech Stack | Size | [E]mployer/[F]reelan
 Company | Remote | Time Zone | Branch | Tech Stack | Size | [E]mployer/[F]reelancer | Job Page
 --- | ---| --- | --- | --- | --- | --- | ---
 [LeadChamps](https://leadchamps.co) | partly | ? | IT sales automation | ? | < 10 | ? | [Jobs](#)
-[storyblok](https://www.storyblok.com) | partly | ? | CMS | ? | > 10 | [Jobs](https://www.storyblok.com/jobs)
+[storyblok](https://www.storyblok.com) | partly | ? | CMS | ? | > 10 | ? | [Jobs](https://www.storyblok.com/jobs)
 [CodeShip](https://codeship.com) | fully | Boston, Vienna | Software Deployment | ? | > 30 | ? | [Jobs](https://codeship.com/jobs)
 [PSPDFKit](https://pspdfkit.com) | fully | | IT software | ? | > 40 | ? | [Jobs](https://pspdfkit.com/careers/)
 [Fretello](https://fretello.com/) | partly | Linz & world | IT app | ? | ? | ? | [Jobs](https://news.fretello.com/career/)
